@@ -67,5 +67,5 @@ Check my pinned repositories below for examples of:
 
 ## 📫 Connect With Me
 
-📧 Email: kirankittu83@gmail.com  
+📧 Email: revellykirankittu@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/revally-kiran/
