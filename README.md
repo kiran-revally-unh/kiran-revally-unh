@@ -41,7 +41,6 @@ Check my repositories below for:
 ### 📫 Connect With Me
 - Email: revellykirankittu@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/revally-kiran/ 
-- Portfolio: https://your-username.github.io
 
 ---
 
