@@ -1,46 +1,64 @@
-Hi 👋 I’m Kiran Revally  
+Hi 👋 I’m Kiran Revally
 Principal Software Engineer  
 
-Enterprise Frontend • UI Systems • Automation  
+Enterprise Frontend • UI Systems • Automation • Scalable Platforms  
 
 ---
 
 ## 👨‍💻 About Me
 
-Principal Software Engineer with **8+ years of experience** building **scalable, production-grade web applications** in enterprise environments.
+Principal Software Engineer with **8+ years of experience** building **enterprise-scale, production-grade web applications** across finance, telecom, and technology-driven domains.
 
-I specialize in designing and maintaining **large Angular-based UI systems**, working with complex data flows, and improving performance, reliability, and developer productivity across teams.
+I specialize in **Angular-based UI systems**, complex data-driven interfaces, and frontend architecture for large platforms. My work focuses on **performance, reliability, clean architecture, and developer experience**, supporting applications used in high-traffic, business-critical environments.
 
-I’ve worked on **high-traffic, business-critical platforms**, collaborating closely with product, backend, QA, and DevOps teams to deliver stable and maintainable solutions.
+I have extensive experience working across the full application lifecycle — from design and development to CI/CD automation, production support, and long-term maintenance — while collaborating closely with product, backend, QA, and DevOps teams.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Angular, TypeScript, RxJS, NgRx, React  
-**Testing:** Playwright, Jest, Cypress  
-**Backend:** Node.js, REST APIs  
-**Cloud & DevOps:** AWS, Docker, CI/CD pipelines  
-**Databases:** PostgreSQL, MongoDB  
+**Frontend**
+- Angular (v17), TypeScript, RxJS, NgRx
+- React, HTML, CSS, Tailwind, Bootstrap
+
+**Testing & Quality**
+- Playwright, Jest, Cypress, Karma, Jasmine
+- Automated regression, UI, and integration testing
+
+**Backend & APIs**
+- Node.js, REST APIs
+- Authentication & authorization (OAuth2, JWT)
+
+**Cloud & DevOps**
+- AWS (EC2, S3, Lambda, API Gateway, DynamoDB)
+- Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB, DynamoDB
+
+**Tooling & Practices**
+- Git, GitHub, Bitbucket
+- Agile / Scrum, SDLC, code reviews, release management
 
 ---
 
 ## 💼 What I Work On
 
-- Designing and maintaining **enterprise-scale UI architectures**
-- Building reusable UI components and shared frontend libraries
+- Designing and maintaining **enterprise-scale frontend architectures**
+- Building reusable UI components and shared design systems
 - Improving performance and usability in complex, data-heavy applications
-- Writing and maintaining **automated test suites** for long-term reliability
-- Supporting production systems and resolving critical issues
-- Collaborating across teams to deliver high-quality, maintainable software
+- Developing **robust automated test suites** for long-term reliability
+- Supporting production systems, debugging critical issues, and delivering fixes
+- Driving CI/CD automation and standardization across teams
+- Collaborating cross-functionally to deliver stable, maintainable solutions
 
 ---
 
 ## 📂 Featured Work
 
-Check my repositories below for examples of:
+Check my pinned repositories below for examples of:
 
-- Frontend architecture and UI system design
+- Enterprise Angular UI systems and architecture
 - Test automation frameworks and tooling
 - Production-ready applications and proof-of-concepts
 
@@ -48,5 +66,5 @@ Check my repositories below for examples of:
 
 ## 📫 Connect With Me
 
-📧 Email: revellykirankittu@gmail.com  
+📧 Email: kirankittu83@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/revally-kiran/
