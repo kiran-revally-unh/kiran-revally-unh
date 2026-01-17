@@ -1,47 +1,52 @@
-## Hi 👋 I’m Kiran Revally
+Hi 👋 I’m Kiran Revally  
+Principal Software Engineer  
 
-**Principal Software Engineer**  
-Enterprise Frontend • UI Systems • Automation
-
----
-
-### 👨‍💻 About Me
-- 8+ years of experience building scalable, production-grade web applications
-- Strong expertise in **Angular**, **TypeScript**, **RxJS**, and large UI systems
-- Experience working on enterprise platforms with complex data flows
-- Passionate about clean architecture, performance, and developer experience
+Enterprise Frontend • UI Systems • Automation  
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** Angular, TypeScript, RxJS, NgRx, React
-- **Testing:** Playwright, Jest, Cypress
-- **Backend:** Node.js
-- **Cloud & DevOps:** AWS, Docker, CI/CD
-- **Databases:** PostgreSQL, MongoDB
+## 👨‍💻 About Me
+
+Principal Software Engineer with **8+ years of experience** building **scalable, production-grade web applications** in enterprise environments.
+
+I specialize in designing and maintaining **large Angular-based UI systems**, working with complex data flows, and improving performance, reliability, and developer productivity across teams.
+
+I’ve worked on **high-traffic, business-critical platforms**, collaborating closely with product, backend, QA, and DevOps teams to deliver stable and maintainable solutions.
 
 ---
 
-### 💼 What I Work On
-- Designing and maintaining enterprise-scale UI systems
-- Improving performance and usability in complex applications
-- Writing automated tests to ensure long-term reliability
-- Collaborating across teams to deliver stable, maintainable solutions
+## 🛠️ Tech Stack
+
+**Frontend:** Angular, TypeScript, RxJS, NgRx, React  
+**Testing:** Playwright, Jest, Cypress  
+**Backend:** Node.js, REST APIs  
+**Cloud & DevOps:** AWS, Docker, CI/CD pipelines  
+**Databases:** PostgreSQL, MongoDB  
 
 ---
 
-### 📂 Featured Work
-Check my repositories below for:
-- Frontend architecture and UI components
-- Test automation and tooling
-- Proof-of-concept and experimental projects
+## 💼 What I Work On
+
+- Designing and maintaining **enterprise-scale UI architectures**
+- Building reusable UI components and shared frontend libraries
+- Improving performance and usability in complex, data-heavy applications
+- Writing and maintaining **automated test suites** for long-term reliability
+- Supporting production systems and resolving critical issues
+- Collaborating across teams to deliver high-quality, maintainable software
 
 ---
 
-### 📫 Connect With Me
-- Email: revellykirankittu@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/revally-kiran/ 
+## 📂 Featured Work
+
+Check my repositories below for examples of:
+
+- Frontend architecture and UI system design
+- Test automation frameworks and tooling
+- Production-ready applications and proof-of-concepts
 
 ---
 
-> Focused on building reliable systems that scale.
+## 📫 Connect With Me
+
+📧 Email: revellykirankittu@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/revally-kiran/
