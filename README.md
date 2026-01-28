@@ -10,7 +10,7 @@ Enterprise Frontend • UI Systems • Automation • Scalable Platforms
 
 Principal Software Engineer with **8+ years of experience** building **enterprise-scale, production-grade web applications** across finance, telecom, and technology-driven domains.
 
-I specialize in **Angular-based UI systems**, complex data-driven interfaces, and frontend architecture for large platforms. My work focuses on **performance, reliability, clean architecture, and developer experience**, supporting applications used in high-traffic, business-critical environments.
+I specialize in **React-based UI systems**, complex data-driven interfaces, and frontend architecture for large platforms. My work focuses on **performance, reliability, clean architecture, and developer experience**, supporting applications used in high-traffic, business-critical environments.
 
 I have extensive experience working across the full application lifecycle — from design and development to CI/CD automation, production support, and long-term maintenance — while collaborating closely with product, backend, QA, and DevOps teams.
 
@@ -19,7 +19,7 @@ I have extensive experience working across the full application lifecycle — fr
 ## 🛠️ Tech Stack
 
 **Frontend**
-- Angular (v17), TypeScript, RxJS, NgRx
+- React, TypeScript, RxJS, NgRx
 - React, HTML, CSS, Tailwind, Bootstrap
 
 **Testing & Quality**
@@ -59,7 +59,7 @@ I have extensive experience working across the full application lifecycle — fr
 
 Check my pinned repositories below for examples of:
 
-- Enterprise Angular UI systems and architecture
+- Enterprise React UI systems and architecture
 - Test automation frameworks and tooling
 - Production-ready applications and proof-of-concepts
 
