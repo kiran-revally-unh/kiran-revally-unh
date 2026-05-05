@@ -9,7 +9,7 @@ Full stack — React, Angular, APIs, a bit of everything
 
 I’ve been doing this for around 8 years now, mostly working on enterprise apps that people actually use every day.
 
-Most of my work is frontend-heavy — React, Angular — but not just UI stuff. I usually end up going into APIs, debugging backend issues, fixing production problems… whatever is needed to get things working properly. So yeah, kind of used to working end-to-end.
+Most of my work is frontend-heavy — React, Angular but not just UI stuff. I usually end up going into APIs, debugging backend issues, fixing production problems… whatever is needed to get things working properly. So yeah, kind of used to working end-to-end.
 
 At Fidelity and other projects, I’ve worked a lot on data-heavy screens — like grids, dashboards, workflows — where things can get slow or messy pretty fast. A lot of my day-to-day was honestly fixing stuff… like why the UI is lagging, why API calls are slow, why something breaks only in production. That kind of stuff.
 
